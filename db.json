@@ -36,13 +36,6 @@
       "status": "En ligne"
     },
     {
-      "id": "qv62",
-      "name": "ddd",
-      "phone": "383939383",
-      "avatar": "D",
-      "status": "En ligne"
-    },
-    {
       "id": "l1sb",
       "name": "rama gueye",
       "phone": "773829373",
@@ -71,7 +64,7 @@
         "4fef",
         "1749664925489y75pcwjo8"
       ],
-      "lastMessage": "Nouvelle conversation",
+      "lastMessage": " ",
       "lastMessageTime": "2025-06-11T18:02:05.501Z",
       "unreadCount": 0,
       "createdAt": "2025-06-11T18:02:05.501Z"
@@ -82,7 +75,7 @@
         "4fef",
         "csow"
       ],
-      "lastMessage": "Nouvelle conversation",
+      "lastMessage": " ",
       "lastMessageTime": "2025-06-11T18:04:32.266Z",
       "unreadCount": 0,
       "createdAt": "2025-06-11T18:04:32.266Z"
@@ -93,7 +86,7 @@
         "4fef",
         "qv62"
       ],
-      "lastMessage": "Nouvelle conversation",
+      "lastMessage": " ",
       "lastMessageTime": "2025-06-11T18:04:59.212Z",
       "unreadCount": 0,
       "createdAt": "2025-06-11T18:04:59.212Z"
@@ -104,7 +97,7 @@
         "4fef",
         "l1sb"
       ],
-      "lastMessage": "Nouvelle conversation",
+      "lastMessage": " ",
       "lastMessageTime": "2025-06-11T18:18:43.514Z",
       "unreadCount": 0,
       "createdAt": "2025-06-11T18:18:43.514Z"
@@ -115,7 +108,7 @@
         "4fef",
         "wqo887dqo"
       ],
-      "lastMessage": "Nouvelle conversation",
+      "lastMessage": " ",
       "lastMessageTime": "2025-06-12T08:14:08.572Z",
       "unreadCount": 0,
       "createdAt": "2025-06-12T08:14:08.572Z"
@@ -137,7 +130,7 @@
       "id": "IZI",
       "conversationId": "f2va",
       "senderId": "4fef",
-      "content": "🔥👍🤔😂🎉😍😍🎉😍🔥😍🎉🔥❤️😍😀😂👍👍😀❤️❤️🤔😀🤔😀",
+      "content": "whaat ??",
       "timestamp": "2025-06-11T18:11:36.107Z",
       "type": "text",
       "status": "sent"
@@ -164,7 +157,7 @@
       "id": "KDLDL",
       "conversationId": "00f7",
       "senderId": "4fef",
-      "content": "😂😍",
+      "content": "Mdr",
       "timestamp": "2025-06-11T18:18:54.244Z",
       "type": "text",
       "status": "sent"
@@ -173,7 +166,7 @@
       "id": "6",
       "conversationId": "f2va",
       "senderId": "4fef",
-      "content": "😀🔥🔥🤔🤔🔥🔥😍🎉😀😂😀😂🔥😂🎉❤️👍🎉❤️🔥😂😍❤️🤔🎉",
+      "content": "salut fils",
       "timestamp": "2025-06-11T18:29:17.349Z",
       "type": "text",
       "status": "sent"
