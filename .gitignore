@@ -1,0 +1,18 @@
+# Ne pas inclure les modules node
+node_modules/
+
+# Empêcher les fichiers logs
+*.log
+
+# Empêcher les fichiers d’environnement locaux
+.env
+
+# Empêcher les fichiers système
+.DS_Store
+
+# Dossier temporaire npm
+npm-debug.log*
+
+# Cache
+.cache/
+dist/
